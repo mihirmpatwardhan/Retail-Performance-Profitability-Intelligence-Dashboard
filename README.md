@@ -4,7 +4,7 @@
 ---
 
 ## 🖼️ Report Interface Preview
-> *A high-fidelity snapshot of the final executive interface, featuring real-time KPI tracking and multi-dimensional filtering across Indian states.*
+> *A  snapshot of the final executive interface, featuring real-time KPI tracking and multi-dimensional filtering across Indian states.*
 
 <p align="center">
   <img src="PASTE_YOUR_LINK_HERE" width="100%" alt="Retail Performance Dashboard Snapshot">
@@ -55,7 +55,7 @@ A retail business generating **₹438K in revenue** needs to understand why cert
 
   ### 6. Screenshots / Demos
 
-> *Below is a high-fidelity snapshot of the final executive interface, featuring real-time KPI tracking for **₹438K Revenue** and **₹37K Net Profit** across Indian regions.*
+> *Below is a  snapshot of the final executive interface, featuring real-time KPI tracking for **₹438K Revenue** and **₹37K Net Profit** across Indian regions.*
 
 <p align="center">
   <img src="https://github.com/mihirmpatwardhan/Retail-Performance-Profitability-Intelligence-Dashboard/blob/main/Snapshot%20of%20Dashboard.png?raw=true" width="100%" alt="Retail Performance Dashboard Snapshot">
