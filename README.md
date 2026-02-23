@@ -3,10 +3,10 @@
  Retail Performance & Profitability Intelligence
 Developed by Mihir M. Patwardhan 
 
-1. Project Overview
+**1. Project Overview**
 Retail Performance & Profitability Intelligence is a high-impact Power BI solution designed to transform raw transactional data into actionable executive insights. This dashboard provides a 360-degree view of retail operations, focusing on revenue streams, profit margins, and inventory distribution across the Indian market.
 
-2. Purpose & Business Problem
+**2. Purpose & Business Problem**
 In the competitive retail landscape, stakeholders often struggle to identify "profit leaks" and high-performing segments within vast datasets. This project was built to:
 
 Identify underperforming regions and months with negative margins.
@@ -15,7 +15,7 @@ Analyze customer purchasing behavior to optimize marketing efforts.
 
 Monitor inventory movement to prevent overstocking or stockouts in key categories.
 
-3. Tech Stack
+**3. Tech Stack**
 📊 Power BI Desktop: Core platform for data visualization and report orchestration.
 
 📂 Power Query (M): Used for intensive ETL (Extract, Transform, Load) processes, including data cleaning and column normalization of the Orders and Details datasets.
