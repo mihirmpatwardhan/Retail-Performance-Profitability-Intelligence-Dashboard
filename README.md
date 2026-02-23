@@ -63,4 +63,8 @@ Inventory Efficiency: Highlighting that Tables are a low-profit sub-category sug
 6. Screenshot / Demos
 
    A high-fidelity snapshot of the final executive interface, featuring real-time KPI tracking and multi-dimensional filtering across Indian states.
+
+   Dashboard preview (https://github.com/mihirmpatwardhan/Retail-Performance-Profitability-Intelligence-Dashboard/blob/main/Snapshot%20of%20Dashboard.png)
+
+   
    
